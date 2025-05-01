@@ -24,6 +24,9 @@ Project Summary:
 A deep learning model that classifies human facial expressions into 5 emotions (Angry, Happy, Neutral, Sad, Surprised). Built with a custom CNN architecture, this project demonstrates:
 
 ✔ Image preprocessing with augmentation (shear, zoom, rescaling)
+
 ✔ CNN implementation (Conv2D, MaxPooling, Dense layers)
+
 ✔ Real-time prediction via Streamlit web interface
+
 ✔ Model deployment with .keras format
